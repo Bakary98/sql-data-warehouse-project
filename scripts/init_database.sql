@@ -1,3 +1,7 @@
+/* Create database DataWarehouse and create schemas.
+Goal : We have to create 'DataWarehouse' and schemas : gold, silver, bronze.
+*/
+
 -- Create Database 'DataWarehouse'
 
 USE master;
